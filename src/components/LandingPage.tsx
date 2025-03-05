@@ -29,7 +29,9 @@ export default function LandingPage() {
                 <div className="tree1"> <img src="/images/tree2.png" alt="tree1" /></div>
                 <div className="bush"> <img src="/images/bush.png" alt="bush" /></div>
                 <div className="montain"> <img src="/images/montain.png" alt="montain" /></div>
+                <div className="montain2"> <img src="/images/montain2.png" alt="montain2" /></div>
                 <div className="picnic"> <img src="/images/picnic.png" alt="picnic" /></div>
+                <div className="picnic2"> <img src="/images/picnic2.png" alt="picnic2" /></div>
 
             </div>
         </>
