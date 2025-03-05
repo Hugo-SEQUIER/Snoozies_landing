@@ -141,6 +141,13 @@
     grid-row: 7 / 8;
 }
 
+.view_docs:hover {
+    cursor: pointer;
+}
+
+.x:hover {
+    cursor: pointer;
+}
 .content-container div {
     width: 100%;
     height: 100%;

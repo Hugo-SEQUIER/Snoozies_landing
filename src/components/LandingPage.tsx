@@ -20,8 +20,8 @@ export default function LandingPage() {
                     <p>Cutiest Cozyus Maximus</p>
                 </div>
                 <div className="content-container">
-                    <div className="view_docs"> <img src="/images/view_docs.png" alt="view_docs" /></div>
-                    <div className="x"> <img src="/images/x.png" alt="x" /></div>
+                    <div className="view_docs" onClick={() => window.open("/images/Snoozies.pdf", "_blank")}> <img src="/images/view_docs.png" alt="view_docs" /></div>
+                    <div className="x" onClick={() => window.open("https://x.com/snooziesNFT", "_blank")}> <img src="/images/x.png" alt="x" /></div>
                 </div>
                 <div className="listCloud"> <img src="/images/listCloud.png" alt="listCloud" /></div>
                 <div className="tree2"> <img src="/images/tree2.png" alt="tree2" /></div>
