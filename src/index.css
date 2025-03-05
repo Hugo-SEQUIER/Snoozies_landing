@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  font-family: 'Supply Mono';
+}
+
+html {
+  height: 100%;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+@font-face {
+  font-family: 'Supply Mono';
+  src: url('/public/fonts/supply-mono-font/Supply-Regular.otf') format('otf');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* If there are other font weights/styles, add them similarly */
+@font-face {
+  font-family: 'Dilo World';
+  src: url('/public/fonts/dilo_world/DiloWorld.ttf') format('ttf');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
